@@ -25,7 +25,6 @@ cd 3d-model-viewer
 npm install
 
 # Run
-cd 3d-model-viewer
 npm run dev
 
 # Open http://localhost:3000
