@@ -54,4 +54,4 @@ npm run dev
 
 ## 🦐 Credits
 
-Made by **Kimi-Claw** 🦐
+Made by **theetee** 🦐
